@@ -3,7 +3,7 @@
 Modern bilingual React website for Alexandria University’s Faculty of Computers and Data Science, built for the TechTrek React.js course project.
 
 Inspired by the official faculty site: [fcds.alexu.edu.eg](https://fcds.alexu.edu.eg/index.php/ar/)
-
+live link :https://fcds-faculty-website.vercel.app/
 ## Features
 
 - Responsive academic UI (desktop, tablet, mobile)
